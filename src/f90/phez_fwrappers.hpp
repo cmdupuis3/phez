@@ -4,7 +4,7 @@
 
 
 #include <cstring>
-#include "../phez_cwrappers.hpp"
+#include "../cpp/phez_cwrappers.hpp"
 
 extern "C" {
 
